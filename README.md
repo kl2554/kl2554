@@ -23,7 +23,7 @@
 
 ###
 
-<br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/Pavith00](https://github.com/kl2554/RecipeSharing.git)<br><br>- 🌱 I’m currently learning *Machine Learning<br><br>- 👨‍💻 All of my projects are available at [My Portfolio](https://kl2554.github.io/port)<br><br>- 📫 How to reach me **krishnathisari2020@gmail.com*
+<br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/kl2554](https://github.com/kl2554/RecipeSharing.git)<br><br>- 🌱 I’m currently learning *Machine Learning<br><br>- 👨‍💻 All of my projects are available at [My Portfolio](https://kl2554.github.io/port)<br><br>- 📫 How to reach me **krishnathisari2020@gmail.com*
 
 
 ###
@@ -91,9 +91,9 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Pavith00&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pavith00&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pavith00&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=kl2554&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kl2554&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kl2554&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
