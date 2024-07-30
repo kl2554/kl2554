@@ -23,7 +23,7 @@
 
 ###
 
-<br>- 🔭 I’m currently working on [Recipe Sharing Website](https://github.com/kl2554](https://github.com/kl2554/RecipeSharing.git)<br><br>- 🌱 I’m currently learning *Machine Learning<br><br>- 👨‍💻 All of my projects are available at [My Portfolio](https://kl2554.github.io/port)<br><br>- 📫 How to reach me **krishnathisari2020@gmail.com*
+
 
 
 ###
